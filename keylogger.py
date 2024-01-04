@@ -1,8 +1,8 @@
-import datetime
-from pynput.keyboard import Key, Listener
-
 # Made by: kianrro
 # https://github.com/kianrro
+
+import datetime
+from pynput.keyboard import Key, Listener
 
 date = datetime.datetime.now()
 
