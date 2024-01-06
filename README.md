@@ -11,6 +11,7 @@ This project uses a simple python script to keep logs of kystrokes by the user, 
 - <b>DateTime</b>
 
 <h2>Environments Used:</h2>
+
 - <b>PyCharm Community</b> 
 
 <h2>Program Breakdown:</h2>
